@@ -31,17 +31,9 @@ Explorer :
 
 # 1. Sebelum Menjalankan Node Register Akun Testnet Dulu
 
-**Langsung Aja di Daftarin di mari Bang :** https://github.com/bangpateng/inery/blob/main/cara-register-testnet.md
-
 # 2. Lite Node
 
-https://github.com/bangpateng/inery/blob/main/Tutorial-Lite-Node.md
-
 # 3. Master Node
-
-https://github.com/bangpateng/inery/blob/main/Tutorial-Master-Node.md
-
-Pilih Salah Satu, Jalankan Lite Node atau Master Node (Saran Sih Master Node)
 
 # 4. Task Inery Get Reward INR Mainnet
 
